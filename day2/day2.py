@@ -43,4 +43,4 @@ with open('./input') as fp:
         score2 += outcomes2[data[0]][data[1]]
 
 print("part 1: "+ str(score))
-print("part 1: "+ str(score2))
+print("part 2: "+ str(score2))
